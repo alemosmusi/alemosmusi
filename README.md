@@ -6,7 +6,7 @@
 
 
 
-### Hi there 👋, I am Gonzalo
+### Hi there 👋, I am Agustin
 #### FullStack Web Developer
 
 
@@ -25,24 +25,20 @@ A developer with Economics background. I have experience working with some of th
 </p>
 
 <h3 align="left">Linkedin :</h3>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gonzalobugarin24">
+<a href="https://www.linkedin.com/in/agu-lemos-fullstack-web-development/">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
  </a>
  
-<h3 align="left">Personal Portfolio :</h3>
-<a href="http://www.gonz.app"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='40'></a>
-    
-    
 
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/bugaringonzalo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bugaringonzalo&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bugaringonzalo&layout=compact&e&theme=vue-light" />
+<a href="https://github.com/alemosmusi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alemosmusi&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alemosmusi&layout=compact&e&theme=vue-light" />
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bugaringonzalo)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alemosmusi)  
 
-![GitHub metrics](https://metrics.lecoq.io/bugaringonzalo)  
+![GitHub metrics](https://metrics.lecoq.io/alemosmusi)  
