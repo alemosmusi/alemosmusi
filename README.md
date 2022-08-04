@@ -28,6 +28,10 @@ A developer with Economics background. I have experience working with some of th
 <a href="https://www.linkedin.com/in/agu-lemos-fullstack-web-development/">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
  </a>
+<h3 align="left">Email :</h3>
+<a href="mailto:alemosmusi@gmail.com"&gt?from=careeradvice-US">
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Aiga_mail.svg' alt='linkedin' height='40'>
+ </a>
  
 
 ### ⚙️ &nbsp; GitHub Analytics
